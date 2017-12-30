@@ -1,0 +1,15 @@
+# C++
+*.exe
+*.o
+
+# Waf
+.build
+.lock*
+waf3-*
+
+# python
+*.pyc
+
+# start scripts
+start.bat
+start.sh
